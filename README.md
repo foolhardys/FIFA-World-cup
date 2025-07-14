@@ -1,5 +1,6 @@
 # FIFA-World-cup-EDA
 # FIFA World Cup Data Analysis
+https://colab.research.google.com/drive/1urwm9haPO_Rpc0jjxShYQGcvAA1JBebo?usp=sharing
 
 This notebook performs an exploratory data analysis on a dataset containing FIFA World Cup match information. The analysis covers several key aspects of World Cup history and performance.
 
